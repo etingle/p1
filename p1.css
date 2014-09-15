@@ -1,0 +1,8 @@
+#menu .pure-menu-heading{color: #F2F2F2; background-color: #129191;}
+#menu {background-color: #C9C8C8;}
+#menu a{color: #353434;}
+.pure-menu .pure-menu-heading{text-transform: capitalize;}
+#menu .pure-menu ul, #menu .pure-menu .menu-item-divided {border-top: 2px solid #333;}
+img {box-shadow: 5px 5px 2px #888888;}
+#menu .pure-menu li a:hover {background: none repeat scroll 0% 0% #B0B0B0;}
+#menu .pure-menu li a:focus {background: none repeat scroll 0% 0% #909090;}
